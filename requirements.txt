@@ -1,0 +1,12 @@
+pandas
+numpy
+sklearn
+unittest
+boto3
+os
+sagemaker
+argparse
+joblib
+Pygments
+locust
+wget
